@@ -1,0 +1,11 @@
+{
+    "name": "test-app",
+    "private": true,
+    "type": "module",
+    "dependencies": {
+        "my-lib": "file:../src/index.ts"
+    },
+    "devDependencies": {
+        "tsx": "^4.21.0"
+    }
+}
